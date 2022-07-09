@@ -1,0 +1,40 @@
+.pro-btn{
+    color:rgba(107,118,208,1);
+    margin: auto;
+    width: fit-content;
+    border: 4px solid rgba(107,118,208,1);
+    border-style: hidden hidden solid hidden;
+    margin-bottom: 10px;
+    padding:10px;
+    font-size: 30px;
+}
+.pro-sec{
+    padding:10px;
+    padding-left: 20px;
+    margin:10px;
+    background-color:red;
+}
+.project{
+    margin:20px;
+    padding-left: 20px;
+    border:2px solid red;
+    background-color: aliceblue;
+    border-style: hidden;
+    padding:20px;
+    transition: 1.5s;
+}
+.project:hover{
+    background-color: whitesmoke;
+    color: blue;
+}
+
+.pro-dev{
+    padding-left: 30px;
+
+    
+}
+.pro-or{
+    background-color: white;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+.home-bar{
+    height:657px;
+    background-color:white;
+    margin:10px;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+.para-head{
+
+    padding-top: 200px;
+    
+    padding-left:30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color:rgba(107,118,208,1);
+}
+

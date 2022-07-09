@@ -1,0 +1,35 @@
+.edu-btn{
+    margin: auto;
+    width:110px;
+    border: 4px solid rgba(107,118,208,1);
+    border-style: hidden hidden solid hidden;
+    padding:10px;
+    color:rgba(107,118,208,1);
+}
+.clg-btn{
+    background-color: white;
+    margin:10px;
+    padding:90px;
+    padding-bottom: 20px;
+    transition: 1.5s;
+    border-radius: 10px;
+    
+}
+.clg-btn:hover{
+    padding:95px;
+    background-color:rgb(236, 236, 157);
+    color: green;
+}
+
+.sec-btn{
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.edu{
+    padding-top: 30px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,41 @@
+.about-btn{
+   /* color:  rgba(107,118,208,1);
+    text-align: center;
+    border:4px solid rgba(107,118,208,1);
+    border-style: hidden hidden solid solid;
+    margin-left:10px;
+    display: flex;
+  justify-content: center;
+  align-items: center;*/
+  margin: auto;
+  width:70px;
+  border: 4px solid rgba(107,118,208,1);
+  border-style: hidden hidden solid hidden;
+  padding:10px;
+  color:rgba(107,118,208,1);
+}
+
+.hero-img{
+    width: 300px;
+    height: 350px;
+    padding:30px;
+}
+
+.impa-btn{
+    display: flex;
+    border:1px solid red;
+    border-style: hidden;
+    padding-left: 20%;
+    background-color: white;
+    margin:10px;
+    
+   
+}
+.abt-para{
+    width:80%;
+    padding-left: 40px;
+    padding-top:100px;
+    color: blue;
+    font-size: 20px;
+   
+}
