@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactassign/static/css/main.db94e208.css",
+    "main.js": "/reactassign/static/js/main.b3268162.js",
+    "static/media/lpu-logo.png": "/reactassign/static/media/lpu-logo.fd888b6953b153386e8d.png",
+    "static/media/formal.jpg": "/reactassign/static/media/formal.c36f589c9e47f18b79f2.jpg",
+    "index.html": "/reactassign/index.html",
+    "main.db94e208.css.map": "/reactassign/static/css/main.db94e208.css.map",
+    "main.b3268162.js.map": "/reactassign/static/js/main.b3268162.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db94e208.css",
+    "static/js/main.b3268162.js"
+  ]
+}
